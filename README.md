@@ -6,6 +6,8 @@ Enter the time to wait before shutting down in minutes as a command line argumen
 
 Use `-a` to abort the shutdown.
 
+Placing this file somewhere on your path will allow you to call the timer from anywhere via the cmd prompt. It can also be called from the run menu `win + r`.
+
 # Examples
 
 `sd 45` - Sets a sleep timer for 45 minutes
